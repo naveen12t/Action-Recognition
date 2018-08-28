@@ -1,1 +1,1 @@
-# action-recognition
+run setup.py
