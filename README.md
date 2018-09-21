@@ -12,14 +12,14 @@ There are many public datasets for human action recognition.In this project, we 
 Dependencies
 =================================================
 
- Matplotlib 
- OpenCV
- Keras
- Sklearn
- Random
- Pickle
- Numpy
- Os
+ 1. Matplotlib 
+ 2. OpenCV
+ 3. Keras
+ 4. Sklearn
+ 5. Random
+ 6. Pickle
+ 7. Numpy
+ 8. Os
 
 Author 
 =================================================
