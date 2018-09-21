@@ -12,7 +12,7 @@ There are many public datasets for human action recognition.In this project, we 
 Dependencies
 =================================================
 
- Matplotlib
+ Matplotlib 
  OpenCV
  Keras
  Sklearn
