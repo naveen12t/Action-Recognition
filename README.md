@@ -1,5 +1,5 @@
-============================================
-Action Recognition
+
+Action-Recognition
 ============================================
 1. install the follwing dependencies.
 2. run train.py file.
