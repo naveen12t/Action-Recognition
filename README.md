@@ -1,8 +1,8 @@
 
 Action-Recognition
 ============================================
-1. install the follwing dependencies.
-2. run train.py file.
+1. Install the follwing dependencies.
+2. Run train.py file.
 
 
 Dataset Description
